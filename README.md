@@ -1,6 +1,11 @@
 ### 백엔드 개발자. Peppone Choi (최병호) 입니다!
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangchi)](https://solved.ac/sangchi)
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
 <!--
 **peppone-choi/peppone-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
