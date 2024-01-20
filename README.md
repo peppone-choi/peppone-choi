@@ -1,4 +1,4 @@
-### 백엔드 개발자. Peppone Choi (최병호) 입니다!
+### 풀스택을 지망하는 초보 개발자. Peppone Choi (최병호) 입니다!
 
 - Astera의 CTO를 담당하고 있습니다!
 
