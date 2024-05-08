@@ -1,7 +1,5 @@
 ### 풀스택을 지망하는 초보 개발자. Peppone Choi (최병호) 입니다!
 
-- 준비중인 스타트업 Astera에서 CTO를 준비하고 있습니다!
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangchi)](https://solved.ac/sangchi)
 <div align=center><h1>📚 STACKS</h1></div>
