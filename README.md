@@ -1,5 +1,5 @@
 <div align=center>
-### 스프링 백엔드 개발자 Peppone Choi (최병호) 입니다!
+<h1>스프링 백엔드 개발자 Peppone Choi (최병호) 입니다!</h1>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangchi)](https://solved.ac/sangchi)
