@@ -41,7 +41,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peppone-choi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppone-choi&exclude_repo=VamserLikeForTest)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppone-choi&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangchi)](https://solved.ac/sangchi)
 
