@@ -1,12 +1,5 @@
 <div align=center>
 <h1>풀스택을 지향하는 백엔드 개발자 Peppone Choi (최병호) 입니다!</h1>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peppone-choi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppone-choi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangchi)](https://solved.ac/sangchi)
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
@@ -42,6 +35,16 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <br>
+</div>
+
+<div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peppone-choi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppone-choi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangchi)](https://solved.ac/sangchi)
+
 </div>
 <!--
 **peppone-choi/peppone-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
