@@ -42,7 +42,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppone-choi&size_weight=0.5&count_weight=0.5&exclude_repo=VamserLikeForTest,&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangchi)](https://solved.ac/sangchi)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=peppone_choi)](https://solved.ac/peppone_choi)
 
 </div>
 <!--
